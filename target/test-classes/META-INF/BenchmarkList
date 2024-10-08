@@ -1,0 +1,1 @@
+JMH S 44 org.example.MatrixMultiplicationBenchmarking S 81 org.example.jmh_generated.MatrixMultiplicationBenchmarking_multiplication_jmhTest S 14 multiplication S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 1 n 6 8 xAAMAA== 8 xAAMAADA 8 1AQMAIDA 16 xAAMAIDA0AA===== 16 yAAMAQDA4AA===== 16 xAAMAADAwAAMAA== U 12 MILLISECONDS E E 
